@@ -1,5 +1,5 @@
 main{
     grid-auto-columns: 100px auto;
     background-color: blue;
-    grid-column: 3/-1;
+    grid-area: m
 }

@@ -1,4 +1,4 @@
 footer{
     background-color: beige;
-    grid-column:1/-1;
+    grid-area: f;
 }

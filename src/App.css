@@ -5,4 +5,8 @@
   grid-template-columns: repeat(12, 1fr);
   grid-template-rows: 75px auto 50px;
   grid-gap: 3px;
+  grid-template-areas: 
+  "l h h h h h h h h h h ."
+  "l m m m m m m m m m m m"
+  "f f f f f f f f f f f f";
 }
